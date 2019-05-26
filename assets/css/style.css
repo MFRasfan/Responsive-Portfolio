@@ -241,10 +241,7 @@ input[type=submit] {
           background-color: #333;
         }
     }
-        .about {
-            margin-left: 250px;
-        }
-        
+       
 
         x
 @media screen and (max-width: 640px) {
@@ -254,3 +251,7 @@ input[type=submit] {
         .headers {
             position: static;
         }
+        .about {
+            margin-left: 250px;
+        }
+        
